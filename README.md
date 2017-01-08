@@ -1,2 +1,3 @@
 # lumenoso.github.io
-Github pages
+
+This is the public site of Lumenoso Technology LLC.
